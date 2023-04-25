@@ -1,6 +1,6 @@
 UserName = "Wizard_CatWhite"
 
-UserName2 = "Wizard_CatWhite" -- optional delete the whole line if you don't want it
+UserName2 = "Wizard_CatWhite" -- optional delete the whole line if you don't want
 
 _G.LoadingScreen = true
 
